@@ -1,1 +1,1 @@
-# ssms-git
+# ssms
